@@ -1,0 +1,1 @@
+SELECT 1, 2, 3, 'Fante', 'Cavallo', 'Re'

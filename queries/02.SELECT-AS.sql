@@ -1,0 +1,1 @@
+SELECT 1 AS Prima, 2 AS Seconda, 3 AS Terza, 'Fante' AS Quarta, 'Cavallo' AS Quinta, 'Re' AS Sesta

@@ -1,0 +1,1 @@
+SELECT birthday, nationality  FROM customers LIMIT 10;
